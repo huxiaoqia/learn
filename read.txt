@@ -2,3 +2,4 @@ git is a disributed version control system
 git is a free software distributed under the GPL
 git has a mutable index called stage.
 git tracks changes of files.
+hu yu xiang is clear
